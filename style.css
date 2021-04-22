@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    margin: 0;
+    background:linear-gradient( #e75787 0%,  #d869d2 50%, #e75787 100%);
+}
+div{
+    width: 720px;
+    height: 480px;
+}
+input{
+    color: black;
+    width: 65px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+button{
+    width: 80px;
+    height: 40px;
+    background: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 18px;
+    margin-bottom: 700px;
+    margin-left: 5px;
+}
